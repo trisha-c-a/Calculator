@@ -1,4 +1,8 @@
 # The Classic Calculator App (With a Twist!)
+<p align="center">
+  <img src="Calculator-app-image.png" width="300" height="400" />
+</p>
+<p align="center">The calculator application with a mental math option</p>
 
 ## Features
 
